@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/sakshammadan/">
+  <img align="left" alt="Saksham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!--
-**Hawk453/Hawk453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=Hawk453.Hawk453)
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Saksham Madan. Though I may have a sense of humor which is decidedly quirky, my humble adobe which you have visited will yield an unique approach.
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning Blockchain 
+- 📫 Reach me at: [sakshammadan@protonmail.com]
+- [My devpost](https://devpost.com/Hawk453)
+- 📝[Resume](https://www.dropbox.com/s/s2uqefzbbilsred/Saksham%27s%20Resume.pdf?dl=0)
+
+**Languages and Tools:**  
+
+- Python
+- Java
+- c++
+- Machine Learning
+- Deep Learning
+- Encryption and Hashing
+- Blockhain
+
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hawk453&show_icons=true&theme=gotham" alt="Hawk453" />
+
+
+
+
