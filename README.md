@@ -17,7 +17,7 @@ Hi, I'm Saksham Madan. Though I may have a sense of humor which is decidedly qui
 - 🌱 I’m currently learning Blockchain 
 - 📫 Reach me at: [sakshammadan@protonmail.com]
 - [My devpost](https://devpost.com/Hawk453)
-- 📝[Resume](https://www.dropbox.com/s/s2uqefzbbilsred/Saksham%27s%20Resume.pdf?dl=0)
+- 📝[Resume](https://www.dropbox.com/s/e4efmr37rqb2qgs/Saksham%27s%20Resume.pdf?dl=0)
 
 **Languages and Tools:**  
 
