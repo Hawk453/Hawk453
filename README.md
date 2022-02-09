@@ -16,13 +16,11 @@ Hi, I'm Saksham Madan. Though I may have a sense of humor which is decidedly qui
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Rust Lang 
 - 📫 Reach me at: [My mail](contact_saksham.unserialize@simplelogin.co)
-- [My Portfolio](https://hawk453.github.io/)
 - [My devpost](https://devpost.com/Hawk453)
 
 **Languages and Tools:**  
 
 - Python
-- Java
 - c++
 - Machine Learning
 - Deep Learning
