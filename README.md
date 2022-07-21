@@ -21,11 +21,10 @@ Hi, I'm Saksham Madan. Though I may have a sense of humor which is decidedly qui
 **Languages and Tools:**  
 
 - Python
-- c++
+- Rust
 - Machine Learning
 - Deep Learning
 - Encryption and Hashing
-- Blockhain
 
 
 📈 My GitHub Stats
