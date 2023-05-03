@@ -3,7 +3,7 @@
   <img align="left" alt="Saksham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Hawk453.Hawk453)
+
 
 <br />
 
@@ -16,7 +16,7 @@ Hi, I'm Saksham Madan. Though I may have a sense of humor which is decidedly qui
 - 👨🏽‍💻 I’m currently working on something cool :wink:
 - 🌱 I’m currently learning Rust Lang 
 - 📫 Reach me at: [My mail](mailto:contact_saksham.unserialize@simplelogin.co)
-- [My devpost](https://devpost.com/Hawk453)
+
 
 **Languages and Tools:**  
 
