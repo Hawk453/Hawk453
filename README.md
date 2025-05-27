@@ -1,31 +1,39 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/sakshammadan/">
-  <img align="left" alt="Saksham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 
-
-<br />
 
 Hi, I'm Saksham Madan. Though I may have a sense of humor which is decidedly quirky, my humble adobe which you have visited will yield an unique approach.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+🎓 MSEE @ NYU | Focused on Embedded Systems, Digital Signal Processing, and Hardware-Software Co-Design.
+🛠️ Projects in Software Development, Analog and Digital Hardware, DSP with C, C++, Python and Rust, Real-Time Embedded Systems, and PCB Design.
+🚀 Passionate about building efficient, reliable systems—bridging hardware and software for real-world impact.
+
+
+ 
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:
+- 👨🏽‍💻 I’m currently working on FPGA (and its firmware) and PCB circuits.
 - 🌱 I’m currently learning Rust Lang 
-- 📫 Reach me at: [My mail](mailto:contact_saksham.unserialize@simplelogin.co)
+- 📫 Reach me at: [My mail](mailto:sakshammadan@nyu.edu)
 
 
-**Languages and Tools:**  
+**Languages**
+	•	Python, Rust, C, C++, Verilog, VHDL, MATLAB, TCL, Assembly
 
-- Python
-- Rust
-- Machine Learning
-- Deep Learning
-- Encryption and Hashing
+**Tools & Frameworks**
+	•	KiCad, Altium Designer, OpenROAD, Cadence, Synopsys VCS, Vivado, Quartus, Xilinx ISE
+	•	Docker, Git, Linux, Jenkins, Jira
+	•	TensorFlow, PyTorch, scikit-learn, NumPy, Pandas
 
+**Domains & Expertise**
+	•	Embedded Systems | Real-Time Firmware | SoC & FPGA Design
+	•	Digital Signal Processing | Audio Processing (Goertzel, FFT, DFT)
+	•	Analog Design | PCB Design | Signal Conditioning Circuits
+	•	Machine Learning | Deep Learning | Model Optimization
+	•	Data Engineering | Metadata-Driven Pipelines | Encryption & Hashing
+
+ 
 
 📈 My GitHub Stats
 
